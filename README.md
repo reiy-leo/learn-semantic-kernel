@@ -1,0 +1,3 @@
+semantic-kernel是巨硬开源的企业级的大模型聚合调用框架，集成了Agents、Orchestration等功能
+
+当前repo是我学习过程中踩过各种坑后，运行成功的代码和注释。
